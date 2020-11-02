@@ -39,3 +39,6 @@ ul.nystil li {
 div.back {
 	text-align: center;
 }
+div.back a {
+	color: red;
+}
