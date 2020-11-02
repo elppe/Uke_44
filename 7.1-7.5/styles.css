@@ -1,8 +1,11 @@
 body {
 	background-color: #686868;
 }
-
-div {
+h2 {
+	text-align: center;
+	background-color: #add8e6;
+}
+div.oppgave {
 	background-color: #f22;
 	width: 160px;
 	height: 50px;
@@ -19,7 +22,7 @@ ol li {
 	padding: 5px;
 	margin: 2px;
 }
-ul.oppgave li {
+ul li {
 	text-align: center;
 	background-color: #3f3;
 	width: 150px;
@@ -32,4 +35,7 @@ ul.oppgave li {
 ul.nystil li {
 	background-color: #88F;
 	width: 150px;
+}
+div.back {
+	text-align: center;
 }

@@ -1,19 +1,16 @@
 body {
 	background-color: #686868
 }
-
 p {
 	text-align: center;
 }
-
 h2 {
-	text-align: center;
+		text-align: center;
+	background-color: #add8e6;
 }
-
 table {
 	border-collapse: collapse;
 }
-
 th {
 	background-color: #5f5;
 	border: 1px solid #000;
@@ -29,8 +26,12 @@ a {
 	font-weight: bolder; /* Gjør teksten om til bold */
 	text-decoration: none; /* Fjerner streken under texten */
 }
-a:hover {
+.oppgave a:hover {
 	color: #00f;  /* Blå */
 	font-size: 20px; /* Øker størrelsen på teksen når du tar musen over */
 	text-decoration: none; /* fjerner streken under teksten */
+}
+div.back {
+	text-align: center;
+	font-weight: bold;
 }
