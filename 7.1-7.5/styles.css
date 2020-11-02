@@ -1,5 +1,5 @@
 body {
-	background-color: #ccc;
+	background-color: #686868;
 }
 
 div {
@@ -19,7 +19,7 @@ ol li {
 	padding: 5px;
 	margin: 2px;
 }
-ul li {
+ul.oppgave li {
 	text-align: center;
 	background-color: #3f3;
 	width: 150px;

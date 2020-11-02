@@ -1,20 +1,29 @@
-a {
-	color: #f00;
-	text-decoration: none;
-	font-size: 20px;
-}
+
 
 body {
-	text-align: center;
 	margin-top: 20%;
-	background-color: #979797;
+	background-color: #686868;
 }
-ol li {
 
-	margin-left: 42%;
-	background-color: #78f;
-	width: 100px;
-	padding: 20px;
-	border: 1px solid #000;
-	list-style-type: upper-roman;
+div.ul ul {
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu li a {
+	display: inline-block;
+	width: 120px;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 2px;
+	color: #ff0000;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #8cbe05;
+}
+
+.hover ul a:hover {
+	background-color: #e7f1cc;
 }

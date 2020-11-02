@@ -1,3 +1,7 @@
+body {
+	background-color: #686868
+}
+
 p {
 	text-align: center;
 }
@@ -21,7 +25,7 @@ td {
 	padding: 6px;
 }
 a {
-	color: #f70; /*Orange */
+	color: #cc0000; /*Orange */
 	font-weight: bolder; /* Gjør teksten om til bold */
 	text-decoration: none; /* Fjerner streken under texten */
 }
